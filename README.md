@@ -1,4 +1,4 @@
-# Data Scientist
+# Computer Scientist
 
 #### Technical Skills: Python, Git, React Native, Bash, Next.js
 
