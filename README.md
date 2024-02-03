@@ -19,7 +19,7 @@ matching algorithms on the backend.
 - Developed an AutoML frontend with StreamLit and FastAPI to receive realtime feedback from domain experts and foster domain-specific model alignment.
   
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### AI Powered Novel Illustration App. 
 [Link](https://picturebookai.streamlit.app/)
 -  Deployed a web app using Python, StreamLit Cloud and OpenAI, enabling readers to create AI-generated illustrations for novels.
 -  Injected a custom UI component into StreamLit UI using PyPI and React.js resulting in 20% more user engagement.
