@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Git, React Native, Bash, Next.js
 
 ## Education
 - BS/MS, Computer Science | Georgia Institute of Technology (_May 2025_)								       		
@@ -20,6 +20,7 @@ matching algorithms on the backend.
   
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[Link](https://picturebookai.streamlit.app/)
+-  Deployed a web app using Python, StreamLit Cloud and OpenAI, enabling readers to create AI-generated illustrations for novels.
+-  Injected a custom UI component into StreamLit UI using PyPI and React.js resulting in 20% more user engagement.
+- Won 1st place at the AI ATL hackathon for Best Use of StreamLit, out of 70 competing teams.
