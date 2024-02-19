@@ -19,10 +19,10 @@ matching algorithms on the backend.
 - Developed an AutoML frontend with StreamLit and FastAPI to receive realtime feedback from domain experts and foster domain-specific model alignment.
   
 ## Projects
-[### AI Powered Novel Illustration App](https://picturebookai.streamlit.app/)
+[Applying DALL-E 3 to Novel Illustration](https://picturebookai.streamlit.app/)
 -  Deployed a web app using Python, StreamLit Cloud and OpenAI, enabling readers to create AI-generated illustrations for novels.
 - Won 1st place at the AI ATL hackathon for Best Use of StreamLit, out of 70 competing teams.
 
-[### Predictive Analytics Dashboard for Soccer Players](https://github.com/siddharthp11/soccer-futures/blob/main/soccer-futures-notebook.ipynb)
+[Predictive Analytics Dashboard for Soccer Players](https://github.com/siddharthp11/soccer-futures/blob/main/soccer-futures-notebook.ipynb)
 - Conducted data analysis of the SoccerTrack dataset, developing player trajectory plots, characteristic area analyses + visualizations
 - Used the time series data to train an LSTM neural network to predict the future positions of soccer players and the ball. 
